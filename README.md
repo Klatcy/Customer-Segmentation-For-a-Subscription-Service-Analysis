@@ -87,12 +87,12 @@ EDA involved the exploration of Data to answer some questions about the Data in 
 ---
 ### Data Analysis
 This is where i include some basic lines of code or queries or even some of the DAX functions used during the analysis.These include
-1. SQL 
+1. SQL
 ```SQL
 SELECT* FROM [dbo].[ Customer Data]
 ```
 - TO RETRIEVE TOTAL NUMBER OF CUSTOMERS FROM EACH REGION
-  ```SQL
+```SQL
 SELECT Region,COUNT (CustomerID) AS Total_Number_of_Customer FROM [dbo].[ Customer Data]
 GROUP BY Region
 ```
@@ -107,7 +107,7 @@ SELECT CustomerName, Canceled,SubscriptionStart FROM[dbo].[ Customer Data]
 WHERE Canceled= 0 AND MONTH (SubscriptionStart) Between 1 AND 6
 ```
 - TO CALACULATE AVERAGE SUBSCRIPTION DURATION FOR ALL CUSTOMERS
-  ```SQL
+```SQL
 SELECT COUNT (CustomerID) As All_Customers, AVG(DATEDIFF(DAY,SubscriptionStart,SubscriptionEnd))
 AS Average_Subscription_Duration FROM [dbo].[ Customer Data]
 WHERE SubscriptionEnd is not Null
@@ -118,7 +118,7 @@ SELECT CustomerName,SubscriptionType,SubscriptionStart,SubscriptionEnd FROM [dbo
 WHERE DATEDIFF(MONTH, SubscriptionStart,SubscriptionEnd) >=12
 ```
 - TO CALCULATE TOTAL REVENUE BY SUBSCRIPTION TYPE
-  ```SQL
+```SQL
 SELECT SubscriptionType, SUM (Revenue) AS Total_Revenue FROM [dbo].[ Customer Data]
 GROUP BY SubscriptionType
 ```
@@ -127,14 +127,13 @@ GROUP BY SubscriptionType
 SELECT TOP 3 Region, Canceled FROM [dbo].[ Customer Data]
 ```
 - TO FIND TOTAL NUMBER OF ACTIVE AND CANCELED SUBSCRIPTIONS
-  ```SQL
+```SQL
 SELECT SUM (Case When Canceled =0 Then 1  Else 0 End) As ActiveSubscriptions,
 SUM (Case When Canceled = 1 Then 1 Else 0 End) As CanceledSubscriptions
 from [dbo].[ Customer Data]
 GROUP BY CustomerID
 ```
 
-```
 2. PowerBI
    -
    
@@ -155,4 +154,4 @@ GROUP BY CustomerID
 
 
 
-This is where i documented my first project while learning Data Analysis with the Incubator Hub
+
