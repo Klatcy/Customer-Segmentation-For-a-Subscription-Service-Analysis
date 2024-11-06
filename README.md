@@ -49,11 +49,11 @@ The dataset has sales data from January 2022 to 2024. It consists originally of 
 
 - SubscriptionEnd: Day each customers subscription ends
   
-- Cancellation:
+- Cancellation: Customers that canceled their subscription
   
 - Revenue: Revenue generated from subscription by each customers
 
-- Subscription Pattern:
+- Subscription Pattern
   
 ---
 ### Tools Used
@@ -139,6 +139,8 @@ GROUP BY CustomerID
    
 --- 
 ### Data Visualization
+- Microsoft Excel
+  
 
 
 
@@ -147,8 +149,7 @@ GROUP BY CustomerID
 
 
 
-
-
+### Conclusion
 
 
 
