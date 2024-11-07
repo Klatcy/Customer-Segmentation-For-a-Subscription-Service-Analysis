@@ -1,3 +1,4 @@
+![Customer Data Visualization New 3](https://github.com/user-attachments/assets/b82212ad-2cbf-4973-8781-35bb7155e997)
 # LITA_CLASS-PROJECT
  # LITA_Project 2
 
@@ -144,6 +145,7 @@ GROUP BY CustomerID
 
 
 
+![Customer Data Visualization New 3](https://github.com/user-attachments/assets/3b7e41bc-9cdc-4aa1-921d-8dd8fc2685fd)
 
 
 
