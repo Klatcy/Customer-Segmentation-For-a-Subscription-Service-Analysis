@@ -1,4 +1,3 @@
-![Customer Data Visualization New 3](https://github.com/user-attachments/assets/b82212ad-2cbf-4973-8781-35bb7155e997)
 # LITA_CLASS-PROJECT
  # LITA_Project 2
 
@@ -140,8 +139,9 @@ GROUP BY CustomerID
    
 --- 
 ### Data Visualization
-- Microsoft Excel
+- Microsoft Excel Data Visualization.
   
+![Customer Data Visualization Chart New (1)](https://github.com/user-attachments/assets/f9b153f0-1589-4027-b528-5ff870491dc0)
 
 
 
