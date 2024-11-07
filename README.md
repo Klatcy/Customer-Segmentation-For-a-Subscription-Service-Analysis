@@ -27,7 +27,7 @@
  
  --- 
 ### Project Overview
-This Data Analysis aims at generating insight into the customer segmentation for a subscription service over the past years. In analyzing the customer data, i seek to extract necessary information from the dataset, to provide valuable insights that can guide decision-making process across various aspects of the business. These insights include the identification of totalnumber of customers from each region, find subscription pattern, top 3 region by subscription cancellations, most popular subscription type of the number of customers among others. This will enable us to tell compelling stories around the data from the insight gotten, to enable the business make informed decisions to optimize operations, enhance marketing efforts, and maximize revenue.
+This Data Analysis aims at generating insight into the customer segmentation for a subscription service over the past years. In analyzing the customer data, i seek to extract necessary information from the dataset, to provide valuable insights that can guide decision-making process across various aspects of the business. These insights include the identification of totalnumber of customers from each region, to find the subscription pattern, top 3 region by subscription cancellations, most popular subscription type,among others. This will enable us to tell compelling stories around the data from the insight gotten, to enable the business make informed decisions to optimize operations, enhance marketing efforts, and maximize revenue.
 
 ---
  ###  Data Sources
@@ -134,24 +134,37 @@ from [dbo].[ Customer Data]
 GROUP BY CustomerID
 ```
 
-2. PowerBI
-   -
+- PowerBI Dax function
+   
    
 --- 
 ### Data Visualization
+
 - Microsoft Excel Data Visualization.
   
 ![Customer Data Visualization Chart New (1)](https://github.com/user-attachments/assets/f9b153f0-1589-4027-b528-5ff870491dc0)
 
+_ The above pivot table
 
 
 ![Customer Data Visualization New 3](https://github.com/user-attachments/assets/3b7e41bc-9cdc-4aa1-921d-8dd8fc2685fd)
 
 
 
+- PoweeBI Data Visualization
+
 
 
 ### Conclusion
+
+
+
+
+
+
+
+
+###Recommenation
 
 
 
