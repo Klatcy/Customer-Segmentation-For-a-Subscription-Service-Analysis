@@ -151,7 +151,7 @@ GROUP BY CustomerID
 _ The above pivot table
 
 
-- ![Customer Excel Visual](https://github.com/user-attachments/assets/38779ac5-ab22-4868-8586-d35bf528904f)
+
 
 ![Customer Excel Visual](https://github.com/user-attachments/assets/79b44452-47d9-4473-b1f0-87d8e3659017)
 
@@ -160,9 +160,7 @@ _ The above pivot table
 
 
 - PowerBI Data Visualization
-
-
-- ![Customer Visual PowerBI](https://github.com/user-attachments/assets/1f93ba7f-21ec-46ae-9a08-5208c1e07899)
+  
 
 
 ![Customer Visual PowerBI](https://github.com/user-attachments/assets/d47c14b7-5160-47f3-9ce5-73792f025d30)
