@@ -140,22 +140,40 @@ GROUP BY CustomerID
 --- 
 ### Data Visualization
 
+
 - Microsoft Excel Data Visualization.
+
+  
   
 ![Customer Data Visualization Chart New (1)](https://github.com/user-attachments/assets/f9b153f0-1589-4027-b528-5ff870491dc0)
+
+
 
 _ The above pivot table
 
 
-![Customer Data Visualization New 3](https://github.com/user-attachments/assets/3b7e41bc-9cdc-4aa1-921d-8dd8fc2685fd)
+
+![Customer Excel Visual](https://github.com/user-attachments/assets/27749163-7c3a-4381-9c38-fffca3c267c0)
 
 
 
-- PoweeBI Data Visualization
+
+- PowerBI Data Visualization
+
+
+![Customer Visual PowerBI](https://github.com/user-attachments/assets/723255ed-c56f-4d97-a8f3-d514c161613c)
+
+
 
 
 
 ### Conclusion
+
+
+
+
+
+### Recommendation
 
 
 
