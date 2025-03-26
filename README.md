@@ -31,7 +31,7 @@ This Data Analysis aims at generating insight into the customer segmentation for
 
 ---
  ###  Data Sources
-The primary source of the Data used here is Sales Data.Csv. This is an open source data that an be freely downloaded from an open source online such as kaggle or any other data repository site.
+The primary source of the Data used is Sales Data.Csv. This is an open source data that can be freely downloaded from an open source online, such as kaggle or any other data repository site.
  
 ---
 ### About the Dataset
