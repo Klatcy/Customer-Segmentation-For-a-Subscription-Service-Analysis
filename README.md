@@ -148,7 +148,7 @@ GROUP BY CustomerID
 
 
 
-_ The above pivot table
+_ The above pivot table shows the report of Subscription Pattern, Most Popular Subscription Type, Top 3 Region by Subscription Cancellation, Total Number of Customers in each region and Total Revenue by Subscription Type.
 
 
 
