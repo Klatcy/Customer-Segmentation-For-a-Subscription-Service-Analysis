@@ -147,8 +147,8 @@ GROUP BY CustomerID
 - ![Customer Data Visualization Chart New (1)](https://github.com/user-attachments/assets/f9b153f0-1589-4027-b528-5ff870491dc0)
 
 
-
 _ The above pivot table shows the report of Subscription Pattern, Most Popular Subscription Type, Top 3 Region by Subscription Cancellation, Total Number of Customers in each region and Total Revenue by Subscription Type.
+
 
 
 
@@ -156,6 +156,8 @@ _ The above pivot table shows the report of Subscription Pattern, Most Popular S
 ![Customer Excel Visual](https://github.com/user-attachments/assets/79b44452-47d9-4473-b1f0-87d8e3659017)
 
 
+
+![1000073155](https://github.com/user-attachments/assets/e9eedc8d-f3e9-4971-abd5-484e44106f3b)
 
 
 
@@ -169,6 +171,8 @@ _ The above pivot table shows the report of Subscription Pattern, Most Popular S
 
 
 ### Conclusion
+
+
 
 
 
