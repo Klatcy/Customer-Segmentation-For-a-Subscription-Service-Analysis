@@ -1,4 +1,4 @@
-# LITA_CLASS-PROJECT
+# Customer Segmentation For a Subscription Service Analysis 
  # LITA_Project 2
 
 ### Project Title: : Customer Segmentation for a Subscription Service
